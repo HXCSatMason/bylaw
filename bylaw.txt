@@ -28,13 +28,13 @@ Article III.  Organizational Structure
 
 Section 1.  The Hua Xia Chinese School consists of the general membership and the School administration.
 
-Section 2.  General membership is the highest legislative body of the School. The annual general membership meeting (before the end of the spring semester) determines the School administration and approves the Bylaws and their amendments. 
+Section 2.  General membership is the highest legislative body of the School. The annual general membership meeting (before the end of the spring semester) determines the School administration and approves the Bylaws and their amendments.
 
 Section 3.  The administration of the School consists of the Board of Directors (Board), the School Council (Council), and the Parent-Teacher Organization (PTO).
 
 Section 4.  The annual general membership meeting shall be organized by the current PTO President with the assistance of the parent representatives and the Secretary of the current Board. Members shall be notified the annual meeting and informed of the detailed agendas with a clear list of issues (including the names of Board nominated candidates for Principal, PTO President, and seven other Board members) no less than fifteen (15) days in advance.
 
-Section 5.  The general membership shall elect Principal, PTO President, and seven (7) other Board members at the annual general membership meeting in the format determined by the Board. The current Board of Directors or any group of no less than five (5) members may nominate eligible members as candidates for the elected positions. The names of the nominated candidates shall be submitted to the Board no less than fifteen (15) days before the voting so that the candidates are listed in the agenda.
+Section 5.  The general membership shall elect (only) any vacant position of Principal, PTO President, and seven (7) other Board members at the annual general membership meeting in the format determined by the Board. The current Board of Directors or any group of no less than five (5) members may nominate eligible members as candidates for the elected positions. The names of the nominated candidates shall be submitted to the Board no less than fifteen (15) days before the voting so that the candidates are listed in the agenda.
 
 
 
@@ -54,7 +54,7 @@ Section 5.  Only one representative of each membership family is eligible of bei
 
 Article V.  Offices and the Fiscal Year
 
-Section 1.  The School shall have no permanent offices. The Board of Directors can designate the address of a member’s residence as its registration address. The facilities where the classes are held may serve as its offices. 
+Section 1.  The School shall have no permanent offices. The Board of Directors can designate the address of a member’s residence as its registration address. The facilities where the classes are held may serve as its offices.
 
 Section 2.  The fiscal year shall be the same as the School year, which starts on July 1st in the calendar year and ends on June 30th of the following year.
 
@@ -62,7 +62,7 @@ Section 2.  The fiscal year shall be the same as the School year, which starts o
 
 Article VI.  Board of Directors
 
-Section 1.  The Board is responsible for overall policy and direction of the School, and delegates responsibilities for day-to-day operations to the School Council. The Principal, who leads the School Council, shall be appointed by a simple  majority of the Board to a two-year term. When it’s not feasible to appoint a single Principal, the Board may appoint up to three (3) Co-Principals to share the responsibilities to lead the School Council. The appointed Principal/Co-Principals shall be member(s) of the Board. The Board oversees the School operation and approves school policies and general guidelines recommended by the school Council, which include but are not limited to: administrative structure, academic policies, annual budget, financial regulations, operational rules, and tuition, reimbursement and compensation rates.
+Section 1.  The Board is responsible for overall policy and direction of the School, and delegates responsibilities for day-to-day operations to the School Council. The Principal, who leads the School Council, shall be elected at the annual membership meeting by a simple  majority of votes to a two-year term. When it’s not feasible to elect a Principal, the Board may appoint one Principal, or up to three (3) Co-Principals to share the responsibilities, to lead the School Council. The appointed Principal/Co-Principals shall be member(s) of the Board. The Board oversees the School operation and approves school policies and general guidelines recommended by the school Council, which include but are not limited to: administrative structure, academic policies, annual budget, financial regulations, operational rules, and tuition, reimbursement and compensation rates.
 
 Section 2.  The board shall consist of nine (9) members: the currently elected Principal, the PTO President, as well as seven (7) other elected members that represent a broad spectrum of the School community.
 
@@ -84,13 +84,13 @@ Section 9.  All communications using the name of HXCS Board shall have permissio
 
 Article VII.  School Council
 
-Section 1.  The School Council shall consist of a Principal, a General Manager, a Dean, a CFO, and other members. All Council members serve on a voluntary basis, except the School Council may include two reimbursed or contracted positions recommended by the Principal and approved by the Board: a treasurer who is in charge of the financial bookkeeping and an Administrator who is in charge of the office daily operation.
+Section 1.  The School Council shall consist of a Principal, an Assistant Principal, a Dean, a CFO, and other members. Alternatively, the School Council may consist of three (3) Co-Principals, a Dean, a CFO, and other members. All Council members serve on a voluntary basis, except the School Council may include two reimbursed or contracted positions recommended by the Principal/Co-Principals and approved by the Board: a treasurer who is in charge of the financial bookkeeping and an Administrator who is in charge of the office daily operation.
 
-Section 2.  The Principal coordinates all activities of the School Council. The other School Council members, except CFO, shall be recommended by the Principal and approved by the Board. The General Manager shall assume the duties of the Principal in case of Principal’s absence.
+Section 2.  The Principal/Co-Principals coordinates all activities of the School Council. The other School Council members, except CFO, shall be recommended by the Principal/Co-Principals and approved by the Board. The Assistant Principal shall assume the duties of the Principal in case of Principal’s absence.
 
-Section 3.  The Principal is responsible for all school operations. All other school council members shall assist in the overall planning, enable smooth functioning, collaboration, and communication between various school administrative branches, staffs, and school volunteers in carrying out the following tasks: (1) overseeing school’s academic tasks, (2) providing logistic support to the school operations, (3) maintaining an overall healthy financial status through financial planning and budgeting, (4) facilitating all school’s culture enrichment and other extra-curriculum programs and activities.
+Section 3.  The Principal/Co-Principals is responsible for all school operations. All other school council members shall assist in the overall planning, enable smooth functioning, collaboration, and communication between various school administrative branches, staffs, and school volunteers in carrying out the following tasks: (1) overseeing school’s academic tasks, (2) providing logistic support to the school operations, (3) maintaining an overall healthy financial status through financial planning and budgeting, (4) facilitating all school’s culture enrichment and other extra-curriculum programs and activities.
 
-Section 4.  The CFO is responsible for coordinating the School overall financial management, which includes (1) collecting tuition and all other receivables, (2) signing checks or delegating other authorized signers to reimburse staffs and teachers and to make payments for all other expenses approved by the Principal or his/her appointees, (3) compiling student records with financial information, (4) maintaining the School bank account, (5) preparing financial statements and publishing them in the School Newsletters, (6) assisting the Principal to prepare the annual budget and financial reports.
+Section 4.  The CFO is responsible for coordinating the School overall financial management, which includes (1) collecting tuition and all other receivables, (2) signing checks or delegating other authorized signers to reimburse staffs and teachers and to make payments for all other expenses approved by the Principal or his/her appointees, (3) compiling student records with financial information, (4) maintaining the School bank account, (5) preparing financial statements and publishing them in the School Newsletters, (6) assisting the Principal/Co-Principals to prepare the annual budget and financial reports.
 
 
 
@@ -98,7 +98,7 @@ Article VIII.   Parent-Teacher Organization (PTO)
 
 Section 1.  The Parent-Teacher Organization (PTO) shall invite all members to participate in all of its activities.
 
-Section 2.  The PTO President, with the assistance of the Vice President and parent representatives (all appointed by the PTO President), is responsible for assisting the Principals in coordinating the broad volunteer participations. These tasks include (1) overseeing the Parent Duty activities, (2) coordinating the fundraising activities, (3) facilitating the communication between parents, teacher, and the school Council, (4) organizing the annual general membership meeting and the election, (5) assisting school officials on all school wide activities.
+Section 2.  The PTO President, with the assistance of the Vice President and parent representatives (all appointed by the PTO President), is responsible for assisting the Principal/Co-Principals in coordinating the broad volunteer participations. These tasks include (1) overseeing the Parent Duty activities, (2) coordinating the fundraising activities, (3) facilitating the communication between parents, teacher, and the school Council, (4) organizing the annual general membership meeting and the election, (5) assisting school officials on all school wide activities.
 
 
 
@@ -108,9 +108,9 @@ Section 1.  The tuition and other appropriate fees are set by the Board of Direc
 
 Section 2.  The School shall not accumulate excessive savings. The capital reserve, excluding designated donations, after having paid all expenses shall not exceed one third of its annual operating budget. Any excessive savings shall be resolved by reducing fees or making charitable donations to causes in line with the School’s objectives.
 
-Section 3.  The Principal and the Board Chair shall jointly have authority to make necessary purchases for the School. Major unbudgeted spending shall be approved by a majority of the Board of Directors.
+Section 3.  The Principal/Co-Principals and the Board Chair shall jointly have authority to make necessary purchases for the School. Major unbudgeted spending shall be approved by a majority of the Board of Directors.
 
-Section 4.  The Board of Directors shall review and approve the budget proposed by the Principal, and all expenditures must be within the budget. Any major change in the budget must be approved by the Board. Annual reports are required to be submitted to the Board showing incomes, receivables, expenditures, payables, and all other financial matters. The financial records of the School are public information and shall be made available to the membership, Board members and the public at a due request.
+Section 4.  The Board of Directors shall review and approve the budget proposed by the Principal/Co-Principals, and all expenditures must be within the budget. Any major change in the budget must be approved by the Board. Annual reports are required to be submitted to the Board showing incomes, receivables, expenditures, payables, and all other financial matters. The financial records of the School are public information and shall be made available to the membership, Board members and the public at a due request.
 
 
 
